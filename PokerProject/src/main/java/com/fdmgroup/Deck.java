@@ -24,6 +24,7 @@ public class Deck {
 	}
 	
 	public void init() {
+		if(!deck.isEmpty()) deck.removeAll(deck);
 		for(Suit s : Suit.values()) {
 			for(int i=1; i<14; i++) {
 				deck.add(cardFactory.createCard(i, s));
