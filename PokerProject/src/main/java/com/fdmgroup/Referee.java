@@ -1,5 +1,5 @@
 package com.fdmgroup;
 
-public class Dummy {
+public class Referee {
 
 }
