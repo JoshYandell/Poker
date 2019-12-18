@@ -5,6 +5,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Poker</title>
+<link rel="stylesheet" type="text/css"
+	href="/PokerProject/styles/main.css" />
 </head>
 <body>
 
