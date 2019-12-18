@@ -5,7 +5,7 @@
 	version="2.5">
 	<display-name>PokerProject</display-name>
 	<welcome-file-list>
-		<welcome-file>main.jsp</welcome-file>
+		<welcome-file>/WEB-INF/views/main.jsp</welcome-file>
 	</welcome-file-list>
 
 	<servlet>
