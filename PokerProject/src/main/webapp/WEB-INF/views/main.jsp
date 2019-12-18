@@ -7,6 +7,9 @@
 <title>Poker</title>
 </head>
 <body>
-
+	<h1>FDM's Poker Game</h1>
+	<h3>Bring your best poker faces!</h3>
+	
+	<div>game here</div>
 </body>
 </html>
